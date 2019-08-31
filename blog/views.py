@@ -15,4 +15,5 @@ def get_index(request):
 #     return render(request, 'blog/post_list.html', {'posts': posts})
 
 
-
+def new_post(request):
+    pass
